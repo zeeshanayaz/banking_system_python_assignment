@@ -1,2 +1,2 @@
-# banking_system_python_assignment
-Banking System Assignment in Python
+# Banking System Assignment
+Banking System to practice functional programming concept in **Python**.
